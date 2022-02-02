@@ -6,6 +6,10 @@ The Lagersmit Supreme Ventus sealing system prevents ships from leaking oil. Whe
 
 # Files
 Clean_data - pre-processing of data
+
 Display_data - making visualisations of data
+
 Make_graphs - making graphs of resulting predictions
+
+Train_model - training the model on pre-processed data
 
