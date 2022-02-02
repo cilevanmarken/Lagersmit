@@ -9,7 +9,9 @@ Clean_data - pre-processing of data
 
 Display_data - making visualisations of data
 
-Make_graphs - making graphs of resulting predictions
+Make_graphs - making graphs of resulting predictions using a loaded model from folder 'Model'
 
 Train_model - training the model on pre-processed data
+
+Model - the model, can be loaded for use with 'keras.models.load_model(path)'
 
